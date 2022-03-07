@@ -18,7 +18,7 @@ npm run start
 
 ```bash
 # Puntos 3 y 4 estan en la carpeta /frontend.
-
+```
 
 ## Version
 
@@ -27,4 +27,7 @@ npm run start
 ## License
 
 This project is licensed under the MIT License
+
+```
+
 ```
